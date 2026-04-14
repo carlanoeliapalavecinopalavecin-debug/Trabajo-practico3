@@ -1,0 +1,14 @@
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\bin\Debug\net8.0\ejercicio 2 array.exe
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\bin\Debug\net8.0\ejercicio 2 array.deps.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\bin\Debug\net8.0\ejercicio 2 array.runtimeconfig.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\bin\Debug\net8.0\ejercicio 2 array.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\bin\Debug\net8.0\ejercicio 2 array.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ejercicio 2 array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ejercicio 2 array.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ejercicio 2 array.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ejercicio 2 array.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ejercicio 2 array.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\refint\ejercicio 2 array.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ejercicio 2 array.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ejercicio 2 array.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ejercicio 2 array\obj\Debug\net8.0\ref\ejercicio 2 array.dll

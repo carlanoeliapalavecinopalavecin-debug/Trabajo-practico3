@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\ejercicio 3 array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F0AF8B-A454-4A4A-A5AE-B81C0F6DDB0E}|ejercicio 3 array.csproj|c:\\users\\noelia\\desktop\\tp3p3array\\ejercicio 3 array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F0AF8B-A454-4A4A-A5AE-B81C0F6DDB0E}|ejercicio 3 array.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\ejercicio 3 array\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\ejercicio 3 array\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T05:15:13.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
