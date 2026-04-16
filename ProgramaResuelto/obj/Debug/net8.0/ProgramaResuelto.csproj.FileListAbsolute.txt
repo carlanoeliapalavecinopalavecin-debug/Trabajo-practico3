@@ -1,0 +1,14 @@
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ProgramaResuelto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ProgramaResuelto.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ProgramaResuelto.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ProgramaResuelto.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\bin\Debug\net8.0\ProgramaResuelto.exe
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\bin\Debug\net8.0\ProgramaResuelto.deps.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\bin\Debug\net8.0\ProgramaResuelto.runtimeconfig.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\bin\Debug\net8.0\ProgramaResuelto.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\bin\Debug\net8.0\ProgramaResuelto.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ProgramaResuelto.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\refint\ProgramaResuelto.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ProgramaResuelto.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ProgramaResuelto.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\ProgramaResuelto\obj\Debug\net8.0\ref\ProgramaResuelto.dll
