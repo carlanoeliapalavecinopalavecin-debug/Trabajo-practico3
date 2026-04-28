@@ -1,0 +1,29 @@
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.exe
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.deps.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.runtimeconfig.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\refint\Sistema Bancario Seguro.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema Bancario Seguro\obj\Debug\net8.0\ref\Sistema Bancario Seguro.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.exe
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.deps.json
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.runtimeconfig.json
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\bin\Debug\net8.0\Sistema Bancario Seguro.pdb
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.AssemblyInfoInputs.cache
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.AssemblyInfo.cs
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.sourcelink.json
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\refint\Sistema Bancario Seguro.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.pdb
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\Sistema Bancario Seguro.genruntimeconfig.cache
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema Bancario Seguro\obj\Debug\net8.0\ref\Sistema Bancario Seguro.dll
