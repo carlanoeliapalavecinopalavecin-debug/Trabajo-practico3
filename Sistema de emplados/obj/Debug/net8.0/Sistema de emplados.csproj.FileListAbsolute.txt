@@ -1,0 +1,29 @@
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.exe
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.deps.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.runtimeconfig.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\refint\Sistema de emplados.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Sistema de emplados\obj\Debug\net8.0\ref\Sistema de emplados.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.exe
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.deps.json
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.runtimeconfig.json
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\bin\Debug\net8.0\Sistema de emplados.pdb
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.AssemblyInfoInputs.cache
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.AssemblyInfo.cs
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.sourcelink.json
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\refint\Sistema de emplados.dll
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.pdb
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\Sistema de emplados.genruntimeconfig.cache
+C:\Users\Noelia\Desktop\Tp3P3Array\Sistema de emplados\obj\Debug\net8.0\ref\Sistema de emplados.dll

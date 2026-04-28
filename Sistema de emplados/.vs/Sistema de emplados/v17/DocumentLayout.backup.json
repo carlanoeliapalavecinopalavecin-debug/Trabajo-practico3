@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\Sistema de emplados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{975263B9-9934-4578-9A9F-161EC4E4E167}|Sistema de emplados.csproj|c:\\users\\noelia\\desktop\\tp3p3array\\sistema de emplados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975263B9-9934-4578-9A9F-161EC4E4E167}|Sistema de emplados.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975263B9-9934-4578-9A9F-161EC4E4E167}|Sistema de emplados.csproj|c:\\users\\noelia\\desktop\\tp3p3array\\sistema de emplados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975263B9-9934-4578-9A9F-161EC4E4E167}|Sistema de emplados.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\Sistema de emplados\\empleado.cs",
+              "RelativeDocumentMoniker": "empleado.cs",
+              "ToolTip": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\Sistema de emplados\\empleado.cs",
+              "RelativeToolTip": "empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:47:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\Sistema de emplados\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\Sistema de emplados\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:44:51.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
