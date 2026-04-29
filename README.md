@@ -9,3 +9,5 @@ Profe agrego el trabajo de encapsulamiento el dia 27-4-2026, ejercicio 1
 Profe agrego el Trabajo de herencia el día 28-04-2026, ejercicio 2
 "Sistema de empleados"
 
+Profe aqui subi el ejercicio 3 , esta separado el codigo porque lo hice en visual estudio, pero esta completo el ejercicio de motor de notificaciones. dia 29-04-2026
+
