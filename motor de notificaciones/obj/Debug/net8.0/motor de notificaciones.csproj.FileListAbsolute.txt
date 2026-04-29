@@ -1,0 +1,14 @@
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\motor de notificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\motor de notificaciones.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\motor de notificaciones.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\motor de notificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\bin\Debug\net8.0\motor de notificaciones.exe
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\bin\Debug\net8.0\motor de notificaciones.deps.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\bin\Debug\net8.0\motor de notificaciones.runtimeconfig.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\bin\Debug\net8.0\motor de notificaciones.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\bin\Debug\net8.0\motor de notificaciones.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\motor de notificaciones.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\refint\motor de notificaciones.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\motor de notificaciones.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\motor de notificaciones.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\motor de notificaciones\obj\Debug\net8.0\ref\motor de notificaciones.dll

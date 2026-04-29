@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\motor de notificaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D40B56-1B65-4262-A38F-04D06D2ADDA7}|motor de notificaciones.csproj|c:\\users\\noelia\\desktop\\tp3p3array\\motor de notificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D40B56-1B65-4262-A38F-04D06D2ADDA7}|motor de notificaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D40B56-1B65-4262-A38F-04D06D2ADDA7}|motor de notificaciones.csproj|c:\\users\\noelia\\desktop\\tp3p3array\\motor de notificaciones\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D40B56-1B65-4262-A38F-04D06D2ADDA7}|motor de notificaciones.csproj|solutionrelative:inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\motor de notificaciones\\INotificador.cs",
+              "RelativeDocumentMoniker": "INotificador.cs",
+              "ToolTip": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\motor de notificaciones\\INotificador.cs",
+              "RelativeToolTip": "INotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:07:37.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\motor de notificaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Noelia\\Desktop\\Tp3P3Array\\motor de notificaciones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T18:40:19.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
